@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cleverbot</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="ajustesTTS">Ajustes TTS</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="tono">Tono</string>
+    <string name="velocidad">Velocidad</string>
+    <string name="idioma">Idioma</string>
+    <string name="espanol">es-ES</string>
+    <string name="ingles">en-EN</string>
+    <string name="frances">fr-FR</string>
+    <string name="habla">Habla ahora</string>
+    <string name="notts">No hay TTS</string>
+
+</resources>

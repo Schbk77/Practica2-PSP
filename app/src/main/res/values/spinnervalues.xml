@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pitchvalues">
+        <item>Agudo</item>
+        <item>Normal</item>
+        <item>Grave</item>
+    </string-array>
+    <string-array name="speedvalues">
+        <item>Rápido</item>
+        <item>Normal</item>
+        <item>Despacio</item>
+    </string-array>
+    <string-array name="languagevalues">
+        <item>Español</item>
+        <item>Inglés</item>
+        <item>Francés</item>
+    </string-array>
+</resources>
